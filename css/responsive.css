@@ -1,0 +1,27 @@
+@media screen and (max-width:1024px){
+  body{
+    background-color: #67A9D9;
+  }
+  li{
+    color: ghostwhite;
+  }
+}
+
+@media screen and (max-width:768px){
+  body{
+    background-color: darkseagreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+}
+
+@media screen and (max-width:425px){
+  body{
+    background-color:deeppink;
+    font-family: 'Times New Roman', Times, serif;
+
+  }
+  h2{
+    color: black;
+  }
+
+}
